@@ -1,0 +1,81 @@
+notes
+
+
+
+http://www.feisresults.com/results1.php?year=2019
+
+
+
+Oireachtas rince na hEireann 2019
+
+http://www.feisresults.com/results2.php?FeisID=162&CompNo=1
+
+
+http://www.feisresults.com/results2.php?FeisID=162&CompNo=53
+
+
+
+http://www.feisresults.com/results1.php?year=2018  -- THE FULL YEAR
+
+Worlds 2018
+http://www.feisresults.com/results2.php?FeisID=154&CompNo=1    --INDV COMPS
+http://www.feisresults.com/results2.php?FeisID=154&CompNo=61
+
+
+
+2019  [162]
+Oireachtas Rince na hEireann 2019
+
+2018 [153:161]
+Oireachtas Rince na hEireann 2018
+Oireachtas Rince na Cruinne 2018
+Craobhacha Rince Naisiunta na hEireann 2018
+North American Irish Dance Championships 2018
+Western Canada Region Oireachtas 2018
+US New England Region Oireachtas 2018
+Oireachtas Rince Chonnacht 2018
+Oireachtas Rince Laighean 2018
+US Mid Atlantic Region Oireachtas 2018
+
+2017  [145:152]
+Oireachtas Rince na Cruinne 2017
+	//div @id="box1"//a @href="passthru.php?FeisID=126"  #not this one
+Craobhacha Rince Naisiunta na hEireann 2017
+North American Irish Dance Championships 2017
+Western Canada Region Oireachtas 2017
+US New England Region Oireachtas 2017
+Oireachtas Rince Chonnacht 2017
+US Mid Atlantic Region Oireachtas 2017
+Oireachtas Rince Laighean 2017
+
+2016 [136:144]
+Oireachtas Rince na Cruinne 2016
+Craobhacha Rince Naisiunta na hEireann 2016
+North American Irish Dance Championships 2016
+Oireachtas Rince na hEireann 2016
+Oireachtas Rince Chonnacht 2016
+Western Canada Region Oireachtas 2016
+Oireachtas Rince Laighean 2016
+US New England Region Oireachtas 2016
+US Mid Atlantic Region Oireachtas 2016
+
+2015  FeisID[126-135]
+Oireachtas Rince na Cruinne 2015
+Craobhacha Rince Naisiunta na hEireann 2015
+North American Irish Dance Championships 2015
+Oireachtas Rince na hÉireann 2015
+Western Canada Region Oireachtas 2015
+Oireachtas Rince Chonnacht 2015
+Oireachtas Rince Laighean 2015
+US New England Region Oireachtas 2015
+US Mid Atlantic Region Oireachtas 2015
+US Southern Region Oireachtas 2015
+
+
+
+
+//*[@id="box1"]/p[3]/a
+//*[@id="sidebar1"]/p/a[1]
+
+
+
